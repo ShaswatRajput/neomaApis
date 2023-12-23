@@ -10,7 +10,7 @@ exports.addProperty = async (req, res) => {
         res.status(201).json({
             status: "success",
             messsage: "Added Property",
-            newProperty
+            data:newProperty
         })
     } catch (err) {
         console.log(err)
