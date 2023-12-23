@@ -27,7 +27,7 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/ShaswatRajput/neomaApis.git
+   git clone https://github.com/ShaswatRajput/neomaApis
 Navigate to the project directory:
 
 
