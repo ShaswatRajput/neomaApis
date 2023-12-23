@@ -11,9 +11,7 @@ Welcome to the Neoma Real Estate API project! This API provides endpoints to man
 - [Usage](#usage)
   - [Running the Server](#running-the-server)
   - [Endpoints](#endpoints)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Getting Started
 
@@ -38,7 +36,7 @@ cd neomaApis
 Install dependencies:
 npm install
 
-Usage
+###Usage
 Running the Server
 Start the server:
 
