@@ -9,8 +9,7 @@ Welcome to the Neoma Real Estate API project! This API provides endpoints to man
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-  - [Running the Server](#running-the-server)
-  - [Endpoints](#endpoints)
+ 
 
 
 ## Getting Started
@@ -38,7 +37,7 @@ npm install
 
 ### Usage
 Running the Server
-# Start the server:
+Start the server:
 
 npm start
 The server will run on http://localhost:4000 by default. You can change the port in the configuration.
