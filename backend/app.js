@@ -35,7 +35,7 @@ app.get("/", async (req, res) => {
         <li>POST /properties    ---Add a new property.</li>
         <li>PUT /properties/:id    ---Update a property by ID.</li>
         <li>DELETE /properties/:id    ---Delete a property by ID.</li>
-        <li>GET /properties/search    ---Search and filter properties based on location, price range, and property type.</li>
+        <li>GET /properties/search    ---Search and Filter properties based on location, price range, and property type.</li>
         </ul>
         <iframe width="1280" height="720" src="https://www.youtube.com/embed/O-tmHDm45Ao?si=qM4_2xaFAsD7J8h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </center>`)
